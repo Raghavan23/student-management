@@ -1,0 +1,5 @@
+com/student/model/Student.class
+com/student/service/StudentService.class
+com/student/util/DBConnection.class
+com/student/dao/StudentDAO.class
+com/student/App.class
