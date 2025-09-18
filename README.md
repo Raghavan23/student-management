@@ -1,16 +1,6 @@
 # student-management
 A menu-driven console application to manage student records with full CRUD functionality. Built with Java, JDBC, PostgreSQL, Maven, and following a layered architecture (DAO, Service, Model).
 
-Nice 👌 — you already have a solid project description. The goal of your GitHub README is to make it:
-
-1. **Clear** (what the project does)
-2. **Reproducible** (how to run it)
-3. **Safe** (make sure users know to use *their own* DB credentials, not yours)
-
-Here’s a professional template you can adapt:
-
----
-
 # 📘 Student Management System
 
 A **menu-driven console application** to manage student records with full CRUD functionality.
@@ -94,14 +84,6 @@ mvn exec:java -Dexec.mainClass="com.yourpackage.Main"
 4. View All Students
 5. Exit
 ```
-
----
-
-## ✅ Future Enhancements
-
-* Add logging with Log4j/SLF4J
-* Add unit tests with JUnit
-* Optionally build REST API with Spring Boot
 
 ---
 
